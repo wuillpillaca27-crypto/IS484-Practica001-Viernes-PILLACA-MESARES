@@ -1,2 +1,2 @@
-# Documentación del Lab 02
-Implementación del algoritmo BFS.
+# Documentacion del Algoritmo BFS
+Explicacion detallada del funcionamiento.
