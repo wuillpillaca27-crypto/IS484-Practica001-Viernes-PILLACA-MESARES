@@ -1,2 +1,2 @@
-# Pruebas de rutas
-print('Validando grafo y BFS...')
+# Pruebas del grafo
+print('Testing BFS...')
